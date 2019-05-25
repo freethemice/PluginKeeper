@@ -1,0 +1,16 @@
+name: PluginKeeper
+main: com.firesoftitan.play.PluginKeeper.PluginKeeper
+dev-url: http://www.firesoftitan.com
+version: 0.0.1_14
+api-version: 1.13
+author: [freethemice]
+commands:
+   pluginkeeper:
+      description: pluginkeeper
+      usage: /<command>
+   pk:
+      description: pluginkeeper
+      usage: /<command>
+permissions:
+   pluginkeeper.admin:
+     description: Gives access to use pluginkeeper
